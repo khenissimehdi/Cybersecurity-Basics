@@ -24,3 +24,13 @@ Outside this simple solutions we need to take care of things like.
 - Cables must be routed in protected access ducts.
 - Server room in a Faraday cage.
 - Computers with shielded casings.
+
+# Logical security
+
+- Defines methods of protection against intrusion by malicious individuals.
+
+-  Against errors of manipulation  (like deleting your backup server by mistake).
+
+- Prevents theft or loss of information (data breach).
+
+- Oprevents loss of operation (system shutdown)
