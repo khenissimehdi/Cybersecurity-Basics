@@ -11,7 +11,7 @@
 - Thiefs = their objective is to just steal money 
 - Clumsy : people who often do alot of mistakes and don't learn from them these are people that can put the back and the app in the same server or can also delete the app by mistake
 
-### Attaccks by Vulnerabilites 
+### Attacks by Vulnerabilites 
 - Vuirus, worms and software bombs
 - Trojan horses (Troyan Horse)
 - Backdoors (Back-door, RootKit)
