@@ -25,3 +25,4 @@
 
 ## PCA goal
 The implementation of a PRA also has an important organizational component that must not be neglected. The main technical challenge is secure data storage. The recovery of a Datacenter is typically done in Y with a production site (Site 1) replicated synchronously to a backup site (Site 2) and asynchronously to a PRA site (Site C) hosting backup application servers.
+
